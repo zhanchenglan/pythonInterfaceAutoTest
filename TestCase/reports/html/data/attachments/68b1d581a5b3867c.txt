@@ -1,0 +1,4 @@
+{'stateCode': 200, 'stateMsg': 'Success', 'data': {'access_token': '6466e40a-1753-4dbb-b102-c8c7006d05d7', 'token_type': 'bearer', 'refresh_token': '22ecc566-3c3b-4fda-9ae5-030a193e1516', 'expires_in': 431212, 'scope': 'all'}}
+6466e40a-1753-4dbb-b102-c8c7006d05d7
+<class 'dict'>
+6466e40a-1753-4dbb-b102-c8c7006d05d7

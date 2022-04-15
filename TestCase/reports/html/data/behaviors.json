@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "我的测试报告",
+    "children" : [ {
+      "name" : "环境搭建",
+      "children" : [ {
+        "name" : "用例1",
+        "children" : [ {
+          "name" : "test_demo1",
+          "uid" : "27c6c325ef830d6",
+          "parentUid" : "c9c648e0a3bfda35439741d91e5ae56b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1650013887158,
+            "stop" : 1650013887324,
+            "duration" : 166
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c9c648e0a3bfda35439741d91e5ae56b"
+      } ],
+      "uid" : "b2ea22b4b5d3c84d9fd34f1485bf7baf"
+    } ],
+    "uid" : "f2d0e940493c66fde7308aee1ec91db3"
+  } ]
+}
